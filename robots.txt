@@ -1,0 +1,3 @@
+Disallow: /admin/
+Disallow: /backup/
+Disallow: /private/
